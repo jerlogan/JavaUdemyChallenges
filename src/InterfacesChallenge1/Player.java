@@ -4,7 +4,8 @@ import java.util.ArrayList;
 
 public class Player implements Saveable {
 
-    private boolean isBlack
+    private boolean isBlack = true;
+
 
 
     @Override
